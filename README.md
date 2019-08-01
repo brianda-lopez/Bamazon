@@ -1,5 +1,5 @@
 # Bamazon
 App using Node and mySQL
 
+https://youtu.be/Am8VijOaIFU
 
-https://www.youtube.com/watch?v=Am8VijOaIFU&feature=youtu.be
